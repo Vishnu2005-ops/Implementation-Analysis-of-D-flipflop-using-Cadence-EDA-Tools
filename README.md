@@ -47,7 +47,7 @@ ii)	Create Schematic Cell view.
 	Create Input and Output pins
 	Make the connections by using fixed narrow wire key
 	Click Check and Save button
-![IMG-20241019-WA0012](https://github.com/user-attachments/assets/34ba817f-3261-4ea3-b4e2-6be450b2207d)
+![screenshot image](https://github.com/user-attachments/assets/0265d9a1-649e-42ed-8428-245291b18553)
 
 
 
@@ -66,7 +66,7 @@ iii)	Creating the Symbol for schematic Cell view
 •	Check for the position of pin side.Prss OK
 •	Edit for the shape by Create-Shape-Choose required options to edit.
 
-![IMG-20241019-WA0009](https://github.com/user-attachments/assets/9bef70c1-ffa3-4680-ac29-d4c5e03d792e)
+![screenshotImage 2024-10-19 at 21 58 28 (1)](https://github.com/user-attachments/assets/ecb86ba1-d421-4b3b-a8b6-793f35b76998)
 
 
 iv)	Creating the new test cell view
@@ -79,7 +79,7 @@ iv)	Creating the new test cell view
 	Type: Schematic press OK
 •	Follow the step 3(ii) d to make the required connections
 
-![IMG-20241019-WA0011](https://github.com/user-attachments/assets/a6e192b4-bc9d-44a0-9007-ab48f2f1acc4)
+![screenshot Image 2024-10-19 at 21 58 28](https://github.com/user-attachments/assets/cdcf4cc5-ca67-4721-add5-07ea568080c2)
 
 
  
@@ -94,14 +94,14 @@ Analog simulation by SPECTRE.
 	Then Select the INPUT WIRE(Vin ) and OUTPUT WIRE(Vout) from your test Schematic using mouse
 •	Execute Simulation -- Net list and Run
  
-![IMG-20241019-WA0010](https://github.com/user-attachments/assets/e532f49e-b60f-4629-bb39-9f9b4085b36f)
+![screenshot Image 2024-10-19 at 21 58 29](https://github.com/user-attachments/assets/c8bcf982-08e3-4b76-b729-df030e6c4e0c)
 
 
 For Transient Analysis Settings and Output
  
- ![IMG-20241019-WA0013](https://github.com/user-attachments/assets/92433262-d11d-460f-899b-5c3d1e661266)
+![screenshot Image 2024-10-19 at 21 58 29 (1)](https://github.com/user-attachments/assets/8bafc68b-6ae0-45d2-ae7d-ac5fbabcf322)
 
- ![IMG-20241019-WA0014](https://github.com/user-attachments/assets/eef27219-4166-4c49-8662-ee7e0ddb6894)
+![Screenshot Image 2024-10-19 at 21 58 30](https://github.com/user-attachments/assets/bb966dc1-b83b-444f-b8dc-29f5a45d7a53)
 
 
 Results:
