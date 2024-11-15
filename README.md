@@ -27,11 +27,14 @@ iv.	Create the test Cell view.<br>
 v.	Analog simulation by spectre<br>
 
 ### i)	Procedure for Creating New Library.
+
 •	File –New – Library<br>
 •	Name: Give name for ur library Ex: VLSILAB_EXP_1<br>
 •	Enable Attach to an existing technology library, Click OK<br>
 •	Attach the library to the technology library gpdk045.Click OK<br>
+
 ### ii)	Create Schematic Cell view.
+
 •	Go to 1st window i.e virtuoso (CIW)<br>
 •	File-New-Cell view<br>
 •	Setup the new file form<br>
@@ -80,6 +83,7 @@ v.	Analog simulation by spectre<br>
 
  
 ### Analog simulation by SPECTRE.
+
 •	In test cell view window<br>
 •	Launch – ADE L(Analog Design Environment)<br>
 	Execute Setup—Simulation/directory/Host A new window opens<br>
@@ -101,6 +105,7 @@ For Transient Analysis Settings and Output
 
 
 ### Results:
+
 The design and implementation of the D-flip-flop using Cadence EDA tools were successfully completed. The simulated results confirmed the correct operation of the flip-flop, with proper synchronization of the input data with the clock signal. Key performance parameters such as propagation delay, power consumption, and area utilization were evaluated, aligning with expected theoretical values.
 
 
